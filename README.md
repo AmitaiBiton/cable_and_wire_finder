@@ -2,8 +2,8 @@
 In this project we deal with images that have cables and wires in different shapes,
 different sizes, colors and extremely challenging shapes,
 in order to train our networks we use a ready-made database that consists of two images as follows:
-![alt text](https://ibb.co/Vw3TPwC/to/img.png)
-
+![alt text](https://github.com/[AmitaiBiton]/[cable_ans_wire_finder]/blob/[main]/data.png?raw=true)
+data.png
 Eventually after the networks learn they will have to get an image that has a thread in a certain shape 
 and make a mask on the image so that the thread will be white and the background black,
 basically from some number of departments to convert to 2 departments.
